@@ -1,2 +1,2 @@
-S1=input()
-print(S1.title())
+S7=input()
+print(S7.title())
